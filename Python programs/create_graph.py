@@ -1,4 +1,5 @@
 #Liam Caveney
+#discription at: http://web.uvic.ca/~lcaveney/projects.html
 #generates adjacency list for graph that represents theory rules
 #input - midi file of chorale
 
