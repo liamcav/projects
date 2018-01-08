@@ -1,4 +1,6 @@
-#takes 
+#Liam Caveney
+#discription at: http://web.uvic.ca/~lcaveney/projects.html
+#takes adjacency matrix and midi file of outer voices and generates inner voices
 
 from music21 import *
 import os
